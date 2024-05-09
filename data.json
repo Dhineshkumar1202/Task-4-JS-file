@@ -1,0 +1,61 @@
+
+
+[
+    { 
+        "name": "DhineshKumar",
+        "title": "Fullstack Developer",
+        "location": "Colombo",
+        "email": "Dhineshtrendy12@gmail.com",
+        "phone": "07644445555",
+        "summary": "I'm Working in IT Industry",
+         "experience": [
+          {
+            "title": "Senior BMS Operator",
+            "company": "Growell Lanka (PVT)LTD",
+            "location": "Colombo",
+            "dates": "2021 - Present",
+            "description": ""
+           },
+          {
+            "title": "Data entry Operator",
+            "company": "Inter Lanka Auto Mart Company",
+            "location": "Colombo",
+            "dates": "2019 - Present",
+            "description": ""
+            }
+        ],
+        "education": [
+          {
+            "degree": "HND Computing in Software Engineering",
+            "institution": "Esoft Metro Campus",
+            "location": "Colombo",
+            "dates": "2021 - 2023"
+          }
+          
+        ],
+        "skills": [
+          "JavaScript",
+          "HTML",
+          "Css",
+          "Python", 
+          "JSON"
+    
+        ],
+        "languages": [
+          "English",
+          "Tamil",
+          "Sinhala"
+        ],
+        "links": [
+          {
+            "title": "GitHub",
+            "url": ""
+          },
+          {
+            "title": "LinkedIn",
+            "url": ""
+          }
+        ]
+      }
+    
+    ]
